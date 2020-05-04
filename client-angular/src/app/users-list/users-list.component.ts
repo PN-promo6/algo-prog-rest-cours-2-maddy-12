@@ -22,5 +22,4 @@ export class UsersListComponent implements OnInit {
       (error) => { }
     );
   }
-
 }

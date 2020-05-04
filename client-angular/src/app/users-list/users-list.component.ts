@@ -13,13 +13,32 @@ export class UsersListComponent implements OnInit {
   //Constructeur
   constructor(private dataService: DataService) { }
 
-  //Methode
+  //Methodes
+
+  //Methode permettant de récupérer les users
   ngOnInit() {
-    this.dataService.fetchUsers().subscribe(
-      (res) => {
-        this.users = res;
-      },
-      (error) => { }
-    );
+    this.dataService.fetchUsers()
+      .subscribe(
+        (res) => {
+          this.users = res;
+        },
+        (error) => {
+          console.log(error);
+        }
+      );
+
+    //Methode permettant de récupérer le user par son ID
+    this.dataService.fetchUserById("1")
+      .subscribe(
+        (res) => {
+          console.log(res);
+
+        },
+        (error) => {
+          console.log(error);
+
+        },
+      )
+
   }
 }

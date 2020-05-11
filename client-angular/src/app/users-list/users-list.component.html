@@ -1,5 +1,5 @@
-<ul>
-    <!-- *ngFor va nous generer autant de li qu'il ya de users -->
-    <li *ngFor="let user of users"> {{ user.name }}</li>
-
-</ul>
+<div class="container">
+    <div class="row">
+        <app-user-preview class="col-md-4" *ngFor="let user of users" [user]="user"></app-user-preview>
+    </div>
+</div>

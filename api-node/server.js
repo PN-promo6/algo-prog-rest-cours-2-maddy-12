@@ -7,8 +7,8 @@ let users = [
         "company": "VINCH",
         "email": "lesaclark@trollery.com",
         "phone": "+1 (945) 413-2529",
-        "latitude": -15.421613,
-        "longitude": 101.274002
+        // "latitude": -15.421613,
+        // "longitude": 101.274002
     },
     {
         "id": "2",
@@ -18,8 +18,8 @@ let users = [
         "company": "VINCH",
         "email": "marshahansen@singavera.com",
         "phone": "+1 (909) 508-3857",
-        "latitude": -44.617836,
-        "longitude": 2.408834
+        //     "latitude": -44.617836,
+        //     "longitude": 2.408834
     },
     {
         "id": "3",
@@ -29,8 +29,8 @@ let users = [
         "company": "VINCH",
         "email": "peckjohnson@talkola.com",
         "phone": "+1 (964) 454-3417",
-        "latitude": -75.566328,
-        "longitude": 33.309041
+        // "latitude": -75.566328,
+        // "longitude": 33.309041
     },
     {
         "id": "4",
@@ -40,8 +40,8 @@ let users = [
         "company": "VINCH",
         "email": "myrnacase@vinch.com",
         "phone": "+1 (915) 517-3973",
-        "latitude": 20.926118,
-        "longitude": 3.366088
+        // "latitude": 20.926118,
+        // "longitude": 3.366088
     },
     {
         "id": "5",
@@ -51,8 +51,8 @@ let users = [
         "company": "FURNIGEER",
         "email": "kellialston@applidec.com",
         "phone": "+1 (957) 410-2377",
-        "latitude": -50.476537,
-        "longitude": -175.994997
+        // "latitude": -50.476537,
+        // "longitude": -175.994997
     },
     {
         "id": "6",
@@ -62,8 +62,8 @@ let users = [
         "company": "FURNIGEER",
         "email": "batesjohnston@earwax.com",
         "phone": "+1 (917) 583-3341",
-        "latitude": -78.69636,
-        "longitude": -0.632594
+        // "latitude": -78.69636,
+        // "longitude": -0.632594
     },
     {
         "id": "7",
@@ -73,8 +73,8 @@ let users = [
         "company": "FURNIGEER",
         "email": "marianamonroe@furnigeer.com",
         "phone": "+1 (975) 514-2722",
-        "latitude": 15.230689,
-        "longitude": 131.753915
+        // "latitude": 15.230689,
+        // "longitude": 131.753915
     },
     {
         "id": "8",
@@ -84,8 +84,8 @@ let users = [
         "company": "ISOLOGICA",
         "email": "letitiaandrews@parcoe.com",
         "phone": "+1 (858) 565-3095",
-        "latitude": -86.176034,
-        "longitude": -153.088186
+        // "latitude": -86.176034,
+        // "longitude": -153.088186
     },
     {
         "id": "9",
@@ -95,8 +95,8 @@ let users = [
         "company": "ISOLOGICA",
         "email": "dinabuchanan@uniworld.com",
         "phone": "+1 (930) 542-2668",
-        "latitude": -22.313357,
-        "longitude": 149.910409
+        // "latitude": -22.313357,
+        // "longitude": 149.910409
     },
     {
         "id": "10",
@@ -106,8 +106,8 @@ let users = [
         "company": "ISOLOGICA",
         "email": "lottiewalters@isologica.com",
         "phone": "+1 (956) 488-3898",
-        "latitude": 23.420905,
-        "longitude": -143.389375
+        // "latitude": 23.420905,
+        // "longitude": -143.389375
     }
 ]
 

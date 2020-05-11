@@ -1,9 +1,11 @@
 export class Post {
-    id: number;
-    userId: number;
+    id: string;
+    userId: string;
+    userName: string;
     title: string;
+    category: string;
     level: string;
     date: string;
-    // image: http://placehold.it/32x32number;
+    image: string;
     text: string;
 }
